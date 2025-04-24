@@ -28,6 +28,10 @@ cd c_assignment_1
 ```bash
 gcc main.c -o data_manager
 ```
+### 2(i). For moduler programm
+```bash
+gcc .\c_assignment_1.c utils.c -o data_manager
+```
 ### 3. Run the program
 ```bash
 ./data_manager
